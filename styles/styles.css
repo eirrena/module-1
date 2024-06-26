@@ -9,7 +9,7 @@ body {
   font-style: normal;
 }
 
-.we-command-container {
+.container__we-command {
     width: 1150px;
     height: 650px;
     margin: 0 auto;
@@ -57,7 +57,7 @@ p {
     letter-spacing: -0.03em;
 }
 
-.about-us-container {
+.container__about-us {
     width: 1150px;
     height: 518px;
     margin: 0 auto;
@@ -65,7 +65,7 @@ p {
     margin-bottom: 92px;
 }
 
-.about-us-container p {
+.container__about-us h2 {
     font-weight: 400;
     font-size: 18px;
     line-height: 24.59px;
@@ -74,7 +74,7 @@ p {
     margin-bottom: 30px;
 }
 
-.about-us-container h2 {
+.container__about-us p {
     font-weight: 400;
     font-size: 45px;
     line-height: 61.47px;
@@ -83,7 +83,7 @@ p {
     margin-bottom: 30px;
 }
 
-.about-us-container button {
+.container__about-us button {
     display: block;
     width: 255px;
     height: 67px;
