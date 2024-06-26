@@ -1,0 +1,109 @@
+body {
+    font-family: Manrope;
+}
+
+.manrope-font {
+  font-family: "Manrope", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.we-command-container {
+    width: 1150px;
+    height: 650px;
+    margin: 0 auto;
+    box-sizing: border-box;
+    margin-bottom: 92px;
+}
+
+.we-command-text {
+    width: 1150px;
+    height: 500px;
+    background-image: url(../resources/the-main-picture-with-the-chair.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.we-command-h1 {
+    font-size: 60px;
+    font-weight: 400;
+    line-height: 60px;
+    letter-spacing: -0.03em;
+    color: #121212;
+    margin-top: 92px;
+    margin-bottom: 30px;
+
+}
+
+p {
+    color: black;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 27.32px;
+    letter-spacing: -0.03em;
+}
+
+
+.we-command-text p {
+    color: #FFFFFF;
+    padding-top: 380px;
+    padding-left: 45px;
+    width: 430px;
+    height: 81px;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 27.32px;
+    letter-spacing: -0.03em;
+}
+
+.about-us-container {
+    width: 1150px;
+    height: 518px;
+    margin: 0 auto;
+    box-sizing: border-box;
+    margin-bottom: 92px;
+}
+
+.about-us-container p {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 24.59px;
+    letter-spacing: -0.03em;
+    color: #121212;
+    margin-bottom: 30px;
+}
+
+.about-us-container h2 {
+    font-weight: 400;
+    font-size: 45px;
+    line-height: 61.47px;
+    letter-spacing: -0.03em;
+    color: #121212;
+    margin-bottom: 30px;
+}
+
+.about-us-container button {
+    display: block;
+    width: 255px;
+    height: 67px;
+    top: 1379px;
+    left: 125px;
+    padding: 20px 40px 20px 40px;
+    gap: 10px;
+    border: 1px solid #AD1818;
+    border-radius: 5px;
+    background-color: #AD1818;
+    margin-top: 30px;
+    cursor: pointer;
+    
+    text-align: center;
+    line-height: 67px;
+    text-decoration: none;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 27.32px;
+    letter-spacing: -0.03em;
+    color: #FFFFFF;
+}
+
