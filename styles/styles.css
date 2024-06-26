@@ -14,7 +14,7 @@ body {
     height: 650px;
     margin: 0 auto;
     box-sizing: border-box;
-    margin-bottom: 92px;
+    margin-bottom: 150px;
 }
 
 .we-command-text {
@@ -62,7 +62,7 @@ p {
     height: 518px;
     margin: 0 auto;
     box-sizing: border-box;
-    margin-bottom: 92px;
+    margin-bottom: 150px;
 }
 
 .container__about-us h2 {
@@ -107,3 +107,48 @@ p {
     color: #FFFFFF;
 }
 
+.container__projects {
+    width: 1150px;
+    height: 2122px;
+    margin: 0 auto;
+    border: 1px;
+    box-sizing: border-box;
+}
+
+.container__projects h2 {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 24.59px;
+    letter-spacing: -0.03em;
+    color: #121212;
+    margin-bottom: 30px;
+}
+
+.container__projects_project {
+    width: 1150px;
+    height: 548px;
+    margin-bottom: 92px;
+}
+
+.container__projects_image-interior {
+    width: 100;
+    height: 450px;
+    margin-bottom: 15px;
+}
+
+.container__projects_name {
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 40.98px;
+    letter-spacing: -0.03em;
+    color: #121212;
+    margin-bottom: 15px;
+}
+
+.container__projects_link-information {
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 27.32px;
+    letter-spacing: -0.03em;
+    color: #AD1818;
+}
